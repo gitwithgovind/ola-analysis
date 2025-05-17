@@ -64,7 +64,7 @@ _Page 4:_ Cancellation <br>
 ➡Date Slicer <br>
 ➡List of KPIs- <br> <pre>
 ✔Total Bookings: 10000            ✔Successful Bookings: 6815 
-✔Cancelled Bookings: 2662         ✔Cancellation Rate: 74.042% <br> <pre>
+✔Cancelled Bookings: 2662         ✔Cancellation Rate: 74.042% <br> </pre>
 ➡Cancelled Rides by Customer (Pie Chart) <br>
 ➡Cancelled Rides by Driver (Pie Chart) <br>
 
