@@ -49,16 +49,22 @@ _Page 1:_ Overall <br>
 ➡Total Booking Value (_KPI Card_): 3.10M <br>
 ➡Booking Status Breakdown (_Pie Chart_) - Visualizes the distribution of rides by status: Success, Cancelled by Rider, Cancelled by Driver, Incomplete. <br>
 ➡Ride Volume Over Time (_Line Chart_) - Plots ride volumes across time. Highlighting fluctuations, seasonality, and patterns in user behavior that may relate to cancellations or booking spikes. <br>
+![Page 1_Screenshot ](https://github.com/user-attachments/assets/e48838da-5a11-4bcc-8468-b708f7a67b21)
+
 
 _Page 2:_ Vehicle Type <br>
 A structured table for visualizing vehicle-wise performance, with vehicle types (e.g., Prime Sedan, Mini, Prime Plus, SUV, Auto, Bike, etc.) as columns and the following key performance metrics as row: <br> <pre>
 ➡Total Booking Value,         ➡Successful Booking Value,         ➡Average Distance Travelled,         ➡Total Distance Travelled. </pre>
+![Page 2_Screenshot](https://github.com/user-attachments/assets/d4495ea5-459c-42f4-9038-221535b7a4aa)
+
 
 _Page 3:_ Revenue <br>
 ➡Revenue by Payment Method (Stacked Column Chart) <br>
 ➡Date (Slicer) <br>
 ➡Top 5 Customers by Revenue (Table) <br>
 ➡Total Ride Distance Over Time (Stacked Column Chart) <br>
+![Page 3_Screenshot](https://github.com/user-attachments/assets/7ca8bde4-304c-4a30-95e9-e2bec648169a)
+
 
 _Page 4:_ Cancellation <br>
 ➡Date Slicer <br>
@@ -67,9 +73,13 @@ _Page 4:_ Cancellation <br>
 ✔Cancelled Bookings: 2662         ✔Cancellation Rate: 74.042% <br> </pre>
 ➡Cancelled Rides by Customer (Pie Chart) <br>
 ➡Cancelled Rides by Driver (Pie Chart) <br>
+![Page 4_Screenshot](https://github.com/user-attachments/assets/d8a9f35c-1da0-47b2-a07e-68d2a77fc839)
+
 
 _Page 5:_ Ratings <br>
 Custom Tables: Driver Ratings by Vehicle Type & Customer Ratings by Vehicle Type <br>
+![Page 5_Screenshot](https://github.com/user-attachments/assets/16f5109d-965c-493d-9048-7fde83a4d39a)
+
 
 _**•Business Impact & Insights**_ <br>
 **Root Cause Discovery:** Two primary reasons behind cancellations were identified—driver unavailability and high wait time—which can now be targeted with operational fixes. <br>
